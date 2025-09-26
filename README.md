@@ -76,12 +76,16 @@ Merge feature-hello → dev.
 
 Later merge dev → main.
 <img width="1908" height="926" alt="Screenshot 2025-09-26 151738" src="https://github.com/user-attachments/assets/44c7f995-1561-4bc4-8319-d42d070e021c" />
+## How to test
+ Run `python3 main.py`
+<img width="487" height="50" alt="Screenshot 2025-09-26 150942" src="https://github.com/user-attachments/assets/e29acfee-fb9b-4810-9780-fa06c7ba625c" />
 
-
+ 
 git checkout main
 git pull origin main
 git tag -a v1.0 -m "First stable release"
 git push origin v1.0
 <img width="713" height="317" alt="Screenshot 2025-09-26 152109" src="https://github.com/user-attachments/assets/1ab19090-2807-48d5-ab0a-53f26bd7fd0d" />
+<img width="1919" height="928" alt="Screenshot 2025-09-26 152324" src="https://github.com/user-attachments/assets/3bd0f699-1199-4050-96aa-a5e07149a769" />
 
 
